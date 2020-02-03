@@ -1,0 +1,36 @@
+body{word-wrap: break-word;  text-align: justify; word-break: break-all;}
+h4{margin:0; padding:0;}
+ul li{list-style: none;}
+a{text-decoration: none;}
+p{margin-top:10px;color:#676767;line-height:24px;letter-spacing:-.02em;font-size:15px;}
+
+.wrap_terms_contents{overflow:hidden; position:relative; max-width:1160px; margin:0 auto; margin:0 15px;}
+.terms_detail{padding-top:30px;}
+.line{width:1160px;margin-top:50px;border-bottom:1px solid #e6e6e6;}
+.terms_detail h4{font-size:20px;color:#272727;margin-top:50px;}
+
+
+
+
+
+.sub_title{display:block;line-height:16px;font-size:14px;margin-top:25px;}
+.tt{letter-spacing:-.02em;font-size:14px;color:#676767;}
+
+
+.list_1depth{padding-inline-start:0px; margin-block-start:0px;margin-top:8px;}
+.list_1depth li{margin-top:10px;color:#676767;line-height:24px;letter-spacing:-.02em;font-size:15px;padding-left:18px;text-indent:-18px;}
+
+
+.list_2depth{padding-inline-start:0px; margin-block-start:0px;margin-top:8px;}
+.list_2depth li{font-size:14px;color:#676767;}
+.list_2depth span{color:#272727;}
+
+.p_bottom_text{margin-top:30px;}
+
+
+.terms_detail .notice{padding-inline-start:0px; margin-block-start:0px;margin-top:50px;}
+.terms_detail .notice li{font-size:14px;color:#676767;}
+.terms_detail .notice span{color:#272727;}
+
+
+.terms_detail .footer{border-top:1px solid #81848b;padding-top:30px;text-align:center;font-size:14px;color:#81848b;}
